@@ -1,2 +1,2 @@
-# isodark.github.com
+# isodark.github.io
 hello
